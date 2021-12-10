@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CharacterAdd : MonoBehaviour
 {
-    public Character character;
+    public Characters character;
     // Start is called before the first frame update
     void Start()
     {
