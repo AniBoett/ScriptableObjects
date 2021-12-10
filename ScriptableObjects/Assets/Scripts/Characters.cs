@@ -10,6 +10,7 @@ public class Characters : ScriptableObject
  public int attack;
  public int health;
  public int age;
- public int speed;
+ public float speed;
+ public float height;
  
 }

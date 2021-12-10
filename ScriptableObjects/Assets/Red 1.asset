@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67ed1ab541b1cde48bfd4adb05743855, type: 3}
   m_Name: Red 1
   m_EditorClassIdentifier: 
-  name: 
-  role: 
-  attack: 0
-  health: 0
-  age: 0
-  speed: 0
+  name: Red S
+  role: Protagonist
+  attack: 10
+  health: 20
+  age: 18
+  speed: 30
+  height: 5.2
